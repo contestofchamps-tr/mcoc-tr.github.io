@@ -257,3 +257,5 @@ gems:
     - jekyll-gist
     - jekyll-sitemap
     - jekyll-paginate
+
+theme: jekyll-theme-cayman
