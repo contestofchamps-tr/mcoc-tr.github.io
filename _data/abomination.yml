@@ -1,0 +1,23 @@
+---
+bio: "When Russian spy Emil Blonsky exposed himself to gamma radiation, he was transformed forever into the monstrous Abomination! Bigger than the Hulk, the Abomination retains his cutting and intellect - but cannot return to his human form. Enormous,  powerful, and angry, the Abomination is a fearsome foe - even to one as strong as  the Hulk!"
+gameplay:
+  yetenek: "Zehir Bağışıklığı, Zehirleme"
+  saldiri: "sca"
+  agir_saldiri: "asc"
+  blok: "asc"
+sign:
+  name: "Irradiate"
+  desc: "When Attacked, Contact with the Abomination's gamma-irradiated body has a 3% to 15% chance to Poison the target, reducing their Health recovery by 30% and dealing 62% of your Attack as direct damage over 12 seconds."
+specials:
+  '1':
+    name: "Skull Bash"
+    desc: "The Abomination uses his head...literally"
+    info: ""
+  '2':
+    name: "Sonic Boom"
+    desc: "A clap from the Abomination travels faster than sound."
+    info: ""
+  '3':
+    name: "Gamma Bomb"
+    desc: "What the Abomination hits into the air, the Abomination hits back"
+    info: ""

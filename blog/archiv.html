@@ -1,0 +1,23 @@
+---
+layout:     default
+title:      'Archiv: Alle Beiträge des Phlow Magazin Blogs'
+teaser:     'Das Blog-Archiv unseres Phlow Magazins listet Dir alle Beiträge auf rund um die Themen Social Media, Journalismus und Webdesign.'
+header:     no
+breadcrumb: true
+---
+<div id="blog-index" class="row">
+    <div class="small-12 medium-8 medium-offset-2 columns t30 end">
+        <h1>{{ page.title }}</h1>
+        {% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
+
+
+        <ul class="side-nav">
+            {% for post in site.posts limit:1000 %}
+            <li>
+                <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% if forloop.last %}<li> </li>{% endif %}
+            {% endfor %}
+        </ul>
+    </div><!-- /.small-8.columns -->
+</div><!-- /.row -->

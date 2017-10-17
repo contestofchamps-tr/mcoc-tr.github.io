@@ -1,0 +1,100 @@
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+		<meta content="{{ site.language }}" itemprop="inLanguage" />
+			<header>
+
+		        {% include _video_embed.html %}
+
+
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.url }}/images/{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+
+					{% if page.image.caption_url and page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				<span itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</span>
+			</header>
+
+			
+			{% if page.character %}
+			<div itemprop="articleSection">
+			<h3>Bio:</h3>
+			{{ site.data.[page.character].bio }}
+			<br>
+			<br><strong>Yetenekler</strong> : {{ site.data.[page.character].gameplay.yetenek }}
+			{% if site.data.[page.character].gameplay.saldiri %}
+			<br><strong>Saldırı Durumunda</strong> : {{ site.data.[page.character].gameplay.saldiri }}{% endif %}
+			{% if site.data.[page.character].gameplay.agir_saldiri %}
+			<br><strong>Ağır Saldırı</strong> : {{ site.data.[page.character].gameplay.agir_saldiri }}{% endif %}
+			{% if site.data.[page.character].gameplay.blok %}
+			<br><strong>Blok Durumunda</strong> : {{ site.data.[page.character].gameplay.blok }}{% endif %}
+			<h4>Özel Hareket 1 / Special Attack 1</h4>
+			<strong>{{ site.data.[page.character].specials.1.name }}</strong> : {{ site.data.[page.character].specials.1.desc }}
+			{% if site.data.[page.character].specials.1.info %}
+			<br><strong>Bilgi</strong> : {{ site.data.[page.character].specials.1.info }}{% endif %}
+			<h4>Özel Hareket 2 / Special Attack 2</h4>
+			<strong>{{ site.data.[page.character].specials.2.name }}</strong> : {{ site.data.[page.character].specials.2.desc }}
+			{% if site.data.[page.character].specials.2.info %}
+			<br><strong>Bilgi</strong> : {{ site.data.[page.character].specials.2.info }}{% endif %}
+			<h4>Özel Hareket 3 / Special Attack 3</h4>
+			<strong>{{ site.data.[page.character].specials.3.name }}</strong> : {{ site.data.[page.character].specials.3.desc }}
+			{% if site.data.[page.character].specials.3.info %}
+			<br><strong>Bilgi</strong> : {{ site.data.[page.character].specials.3.info }}{% endif %}
+			<h4>Kopya Özelliği / Signature</h4>
+			<strong>{{ site.data.[page.character].sign.name }}</strong> : {{ site.data.[page.character].sign.desc }}
+			{% if site.data.[page.character].sign.info %}
+			<br><strong>Bilgi</strong> : {{ site.data.[page.character].sign.info }}{% endif %}
+			<br><strong>Not</strong> : Yukarıdaki yazılı oranlar ve yüzdelikler 4-yıldız ve 99 kopya karakterlere aittir. 
+
+
+						{% include character-guide-page.html %}
+
+			</div>
+			{% endif %}
+
+			<div itemprop="articleSection">
+			{{ content }}
+			</div>
+			
+			{% if page.show_meta == true %}
+			{% include meta_information.html %}
+			{% endif %}
+
+			{% if page.comments == true %}
+			{% include comments.html %}
+			{% endif %}
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->

@@ -1,0 +1,67 @@
+- title: Anasayfa
+  url: "/"
+  side: left
+  
+- title: "Karakterler"
+  url: "/karakter/"
+  side: left
+  dropdown:
+  - title: "Beceri"
+    url: "/beceri/"
+  - title: "Bilim"
+    url: "/bilim/"
+  - title: "Mistik"
+    url: "/mistik/"
+  - title: "Kozmik"
+    url: "/kozmik/"
+  - title: "Teknoloji"
+    url: "/teknoloji/"
+  - title: "Mutant"
+    url: "/mutant/"
+
+- title: "Maceralar"
+  url: "/macera/"
+  side: left
+  dropdown:
+  - title: "Hikaye Maceraları"
+    url: "/macera/hikaye-maceralari/"
+  - title: "Günlük Katalizör Maceraları"
+    url: "/macera/gunluk-maceralari/"
+  - title: "Efsaneler Diyarı (ROL)"
+    url: "/macera/efsaneler-diyari/"
+  - title: "Efsaneler Labirenti"
+    url: "/macera/efsaneler-labirenti/"
+    
+- title: "arena"
+  url: "/arena/"
+  side: left
+  dropdown:
+  - title: "Oyuncunun Sınavları"
+    url: "/arena/summonertrials/"
+  - title: "3 Yıldız"
+    url: "/arena/arena3star/"
+  - title: "4 Yıldız (Basic) "
+    url: "/arena/arena4starbasic/"
+  - title: "4 Yıldız (Featured) "
+    url: "/arena/arena4starfeatured/"   
+  - title: "Alfa Katalizör"
+    url: "/arena/arenaalfa/"
+  - title: "T4 Katalizör"
+    url: "/arena/arenat4/"
+  - title: "S4 Katalizör"
+    url: "/arena/arenas4/"
+
+- title: "İttifak Modu"
+  url: "/ittifak-modu/"
+  side: left
+  dropdown:
+  - title: "Ittifak Macerası"
+    url: "/ittifak-modu/macera/"
+  - title: "Ittifak Savaşı"
+    url: "/ittifak-modu/savas/"
+    
+- title: "Taktik"
+  url: "/taktik/"
+  side: left
+          
+    

@@ -1,0 +1,980 @@
+abomination: 
+    s1a_desc: "Abomination kafasını kullanır. Gerçek anlamda."
+    s2a_desc: "Abomination'ın darbesi sesten hızlıdır."
+    s3a_desc: "Abomination vurarak havaya uçurduğunu yine vurarak yere geri getirir."
+    s1a_name: "Kafatası Darbesi"
+    s2a_name: "Sonik Patlama"
+    s3a_name: "Gama Bombası"
+    sign_name: "Işıma"
+    sign_desc: "Abomination'ın gama radyasyonuna maruz kalmış gövdesine temas etmek, hedefin Zehirlenme şansını %15 artırır, iyileşmesini %30 azaltır ve hedefe 12 saniye boyunca Saldırının %62 kadarını doğrudan hasar olarak verir."
+
+agent-venom: 
+    s1a_desc: "İki akrobatik vuruştan sonra Ajan Venom çift makineli tüfeği ile cezalandırıcı bir yaylım ateşi açar. Bundan Kaç Bakalım!"
+    s2a_desc: "ABD'nin en yıkıcı bombalarından biri olan termit bir Sembiyot organı ile son derece hızlı bir şekilde fırlatılır."
+    s3a_desc: "İki tam isabet ağ atışı ile Flash altı şarjör daha boşaltırken hedefinin hareketsiz kalmasını sağlar."
+    s1a_name: "Bastırma Ateşi"
+    s2a_name: "Termit Gedik"
+    s3a_name: "Şok ve Dehşet"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+ant-man: 
+    s1a_desc: "Pym Parçacıkları sayesinde Karınca Adam mikro ölçekte bir aparkat yumruğu atar."
+    s2a_desc: "Karınca Adam rakibini yemek üzere dev bir öfkeli karınca sürüsü yollar. Milyonlarca minik karınca milyonlarca minik ısırık demektir."
+    s3a_desc: "Pym Parçacıklarının ekstra kuvvetiyle Karınca Adam minik nakavt yumruklarından oluşan güçlü bir kombinasyon oluşturur."
+    s1a_name: "Pym Yumruğu"
+    s2a_name: "Karınca Sürüsü"
+    s3a_name: "Karınca Büyüklüğünde Nakavt"
+    sign_name: "Pym Gaz Kontrolü"
+    sign_desc: "Karınca Adam mücadele sırasında hassas Pym Gaz kontrolü ile kendi büyüklüğünü sinsice değiştirerek gelen saldırıların %59,4 şansla parlamasına sebep olur. Parlayan Darbeler Kritik olamaz, %50 düşük hasar verir ve Saldırı Yetenek İsabeti -%100 olur."
+
+beast: 
+    s1a_desc: "Beast serbest bir savaş formu benimseyerek rakibine çoklu tekmelerle saldırır."
+    s2a_desc: "Büyük gücü ve çevikliğinden sonuna kadar faydalanan Beast rakibini devirmek üzere bir dizi akrobatik tekmeyle saldırır."
+    s3a_desc: "Beast hayvani içgüdülerinden faydalanarak şüphelenmeyen rakiplerine karşı geçici bir vahşi saldırı gerçekleştirir"
+    s1a_name: "Serbest Stil Dövüş"
+    s2a_name: "Akrobatik Tekmeler"
+    s3a_name: "Hayvani İçgüdüler"
+    sign_name: "Klyntar2yy Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+black-bolt: 
+    s1a_desc: "Bilinmeyen parçacıkları alnındaki antenden geçiren Black Bolt rakibini odaklanmış ışınlarıyla hedef alır."
+    s2a_desc: "Etrafı anti-gravitonlarla çevrili olan Black Bolt rakibine doğru uçar ve onu çoklu darbelerle geri çekilmeye zorlar."
+    s3a_desc: "Black Bolt'un gücü öyle büyüktür ki tek bir fısıltısı bile düşmanlarına boyun eğdirir."
+    s1a_name: "Parçacık Işını"
+    s2a_name: "Burgu"
+    s3a_name: "Hipersonik Fısıltı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında vbe Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+black-panther: 
+    s1a_desc: "Bir dizi taktiksel darbe."
+    s2a_desc: "Kara Panter öfkesini planlanmış vuruşlarla dışarıya aktarır."
+    s3a_desc: "Wakanda Panter Klanı'nın lideri T'Challa kutsal güçlerine başvurur ve seri saldırıya geçer."
+    s1a_name: "Sert Darbeler"
+    s2a_name: "Panter Darbesi"
+    s3a_name: "Wakanda İçin!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."  
+
+black-panther-cw: 
+    s1a_desc: "Wakanda Kralı gücüne inanmayan herkese kudretini kanıtlar."
+    s2a_desc: "Atalarının ruhlarını çağırarak hızlı ve güçlü darbeler için kendisine güç vermelerini sağlar."
+    s3a_desc: "Rakiplerini nokta atışlarıyla zayıflatan T'Challa Wakanda'nın düşmanlarını alaşağı etmek üzere sert bir şekilde saldırır."
+    s1a_name: "Kralın Kudreti"
+    s2a_name: "Ataların Gücü"
+    s3a_name: "Wakanda Saldırısı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+black-widow: 
+    s1a_desc: "Ajan Romanova Kara Dul Harekâtı programında ilk öğrendiği bir dizi taktik darbe indirir."
+    s2a_desc: "Kara Dul bir balerinin çevikliği ve zarafetinin yanında bir ninjanın duyarlılığı ve yıkım kabiliyetini sergiler."
+    s3a_desc: "Zararsız görünebilir fakat bu Kara Dul'un şok edici bir ısırığı vardır."
+    s1a_name: "Etkileyici Özellikler"
+    s2a_name: "Zarif Yaylım Ateşi"
+    s3a_name: "Dulun Isırığı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+doctor-voodoo: 
+    s1a_desc: "Doktor Voodoo hedefinin faydalı büyülerini zehirleyen Loalar'dan yardım ister."
+    s2a_desc: "Doktor Voodoo ruhlar diyarından yardım ister. Bu isteğine yanıt veren Loalar da ona güç verir ya da düşmanının gücünü azaltır."
+    s3a_desc: "Doktor Voodoo Papa Legba'dan yardım ister. O da Ruhlar Diyarı'na bir geçit açar."
+    s1a_name: "Ruh Venom"
+    s2a_name: "Loalar'ın Hediyesi"
+    s3a_name: "Kapıyı Aç"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+captain-america: 
+    s1a_desc: "Kaptan Amerika ağırlığını etkili bir kalkan darbesine verir."
+    s2a_desc: "Kaptan'ın ünlü kalkanıyla yaptığı saldırılarla başa çıkmak zordur."
+    s3a_desc: "Kaptan'ın kalkanını yakından görme fırsatı. Gözünü bile kırpma yoksa kaçırırsın."
+    s1a_name: "Kalkan Darbesi"
+    s2a_name: "Kalkan Fırlatma"
+    s3a_name: "Amerikan Adaleti"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+captain-america-wwii: 
+    s1a_desc: "Kaptan Amerika ağırlığını etkili bir kalkan darbesine verir."
+    s2a_desc: "Kaptan'ın ünlü kalkanıyla yaptığı saldırılarla başa çıkmak zordur."
+    s3a_desc: "Kaptan'ın kalkanını yakından görme fırsatı. Gözünü bile kırpma yoksa kaçırırsın."
+    s1a_name: "Kalkan Darbesi"
+    s2a_name: "Kalkan Fırlatma"
+    s3a_name: "Amerikan Adaleti"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+captain-marvel: 
+    s1a_desc: "Güçlü bir kozmik enerji ışını önüne çıkan her şeyi yakar."
+    s2a_desc: "Kaptan Marvel galaktik bir erdemle devasa bir tekme atar."
+    s3a_desc: "Maksimum güç seviyesine gelen olan Kaptan Marvel ellerinden yıkıcı enerji dalgaları yayar."
+    s1a_name: "Kozmik Patlama"
+    s2a_name: "Kozmik Tekme"
+    s3a_name: "Roket Yumruğu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+civil-warrior: 
+    s1a_desc: "Bu savaşı gördüm."
+    s2a_desc: "Bu mücadelede savaştım."
+    s3a_desc: "Ne olursa olsun bunu bitirmeliyim."
+    s1a_name: "Ark Patlaması"
+    s2a_name: "İtici Hücum"
+    s3a_name: "Aşırı Yük"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+colossus: 
+    s1a_desc: "Rakibi indirmek için klasik bir güreş hareketi."
+    s2a_desc: "Colossus 100 tonu kaldırabilecek insanüstü gücüyle yumruk yumruğa çarpışır."
+    s3a_desc: "Etten ve kemiktenken normal bir insandır ancak çelik halini aldığında bir kahramana dönüşür ve verdiği hasar mevcut Zırh seviyesine göre artar."
+    s1a_name: "Düşürme Vuruşu"
+    s2a_name: "Durdurulamaz"
+    s3a_name: "Kırılamaz"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+uns-colossus: 
+    s1a_desc: "Rakibi indirmek için klasik bir güreş hareketi."
+    s2a_desc: "Colossus 100 tonu kaldırabilecek insanüstü gücüyle yumruk yumruğa çarpışır."
+    s3a_desc: "Etten ve kemiktenken normal bir insandır ancak çelik halini aldığında bir kahramana dönüşür ve verdiği hasar mevcut Zırh seviyesine göre artar."
+    s1a_name: "Düşürme Vuruşu"
+    s2a_name: "Durdurulamaz"
+    s3a_name: "Kırılamaz"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+crossbones: 
+    s1a_desc: "Büyük bir güçle saldır."
+    s2a_desc: "Özel bir Beyaz Fosfor karışımlı mermilerle düşmanları yak."
+    s3a_desc: "Onların yaptıklarını ödetmenin vakti geldi."
+    s1a_name: "Bozgun"
+    s2a_name: "Yakıcı Saldırı"
+    s3a_name: "Göze Göz"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."  
+
+cyclops: 
+    s1a_desc: "Cyclops Yakut-Kuvars vizörünü kullanarak enerji ışınlarını odaklar."
+    s2a_desc: "İki öfke yüklü yumruk ve bir tekme ile rakibini sersemleten Cylops Optik Patlamasıyla onlara son bir ders verir."
+    s3a_desc: "Scott Summers bir anlığına kontrolü kaybedip Optik Patlamasının gigavat seviyesine ulaşmasına izin verir. Tek şahit kendisi olacak."
+    s1a_name: "Optik Patlama"
+    s2a_name: "Tetiklik"
+    s3a_name: "Gigavat Patlaması"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+cyclops-90s: 
+    s1a_desc: "Cyclops Yakut-Kuvars vizörünü kullanarak enerji ışınlarını odaklar."
+    s2a_desc: "İki öfke yüklü yumruk ve bir tekme ile rakibini sersemleten Cylops Optik Patlamasıyla onlara son bir ders verir."
+    s3a_desc: "Scott Summers bir anlığına kontrolü kaybedip Optik Patlamasının gigavat seviyesine ulaşmasına izin verir. Tek şahit kendisi olacak."
+    s1a_name: "Optik Patlama"
+    s2a_name: "Tetiklik"
+    s3a_name: "Gigavat Patlaması"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+daredevil-classic: 
+    s1a_desc: "Matt Murdock erken yaşta Stick'ten aldığı yoğun eğitim sayesinde yakın dövüş konusunda ustalaşmıştı."
+    s2a_desc: "Akrobatik kurnazlıkla üç klasik tekme."
+    s3a_desc: "Korkusuz farkındalığını 360° artırarak saldırılardan kurtulur ve düşmanın basınç noktalarına karşı saldırı gerçekleştirir."
+    s1a_name: "Stick Saldırısı"
+    s2a_name: "Ani Tekme"
+    s3a_name: "Kurtarma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+daredevil-netflix: 
+    s1a_desc: "Nihai yargı niyetiyle saldıran Murdock mükemmel bir isabet ve zarafetle düşmanına tam on ikiden bir tekme savurur."
+    s2a_desc: "Ölümcül bir isabet ve olağan dışı bir süratle üç hızlı tekme atar."
+    s3a_desc: "Korkusuz farkındalığını 360° artırarak saldırılardan kurtulur ve düşmanın basınç noktalarına karşı saldırı gerçekleştirir."
+    s1a_name: "Kınama"
+    s2a_name: "Hızlı Adalet"
+    s3a_name: "Kurtarma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+deadpool: 
+    s1a_desc: "Hassas yere sağlam bir yumruk atmak için havalı bir yol."
+    s2a_desc: "İKİ kılıçla gerçekleştirilen bir saldırı. Ha harika bir takla ve iki kılıç!"
+    s3a_desc: "Bunu gerçekten cevaplamam lazım..."
+    s1a_name: "Dönen Kasık Yumruğu"
+    s2a_name: "Taklalı Kılıç Saldırısı"
+    s3a_name: "Bekle Bakalım"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+deadpool-x-force: 
+    s1a_desc: "Belli birinin hassas yerine sağlam bir yumruk atmak için havalı bir yol."
+    s2a_desc: "İKİ kılıçla gerçekleştirilen bir saldırı. İşte harika bir takla ve iki kılıç!"
+    s3a_desc: "Ben buna kırmızı kıyafetli bir sahtekar derim!"
+    s1a_name: "Dönen Kasık Yumruğu"
+    s2a_name: "Taklalı Kılıç Saldırısı"
+    s3a_name: "Bekle Bakalım"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+doctor-strange: 
+    s1a_desc: "Her büyücü düellosuna mütevazi bir başlangıç."
+    s2a_desc: "Dr. Strange üç Faltine Alevinin coşkulu senfonisine şeflik eder."
+    s3a_desc: "Dr. Stephen Strange son gösterisinde üstün büyücülük becerilerini göstererek rakibini yok eder."
+    s1a_name: "Büyülü Füze"
+    s2a_name: "Faltine Üçlüsü"
+    s3a_name: "Prestij"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+drax: 
+    s1a_desc: "Drax'ın vahşi kafa atışının birkaç kafatası kıracağına şüphe yok."
+    s2a_desc: "Drax çift bıçakla Dwi Theet dövüş sanatı uzmanlığını gösterir. Sinekkaydı tıraşını seviyorsundur umarım."
+    s3a_desc: "Drax onu çoşturan öfkesiyle eşsiz bir güçle kesip tekmeler."
+    s1a_name: "Kafatası Kırma"
+    s2a_name: "İkiz Kılıç"
+    s3a_name: "Yok Edici"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+doctor-strange-marvel-now: 
+    s1a_desc: "Her büyücü düellosuna mütevazi bir başlangıç."
+    s2a_desc: "Dr. Strange üç Faltine Alevinin coşkulu senfonisine şeflik eder."
+    s3a_desc: "Dr. Stephen Strange son gösterisinde üstün büyücülük becerilerini göstererek rakibini yok eder."
+    s1a_name: "Büyülü Füze"
+    s2a_name: "Faltine Üçlüsü"
+    s3a_name: "Prestij"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+electro: 
+    s1a_desc: "Electro parmak uçlarından elektrostatik yıldırımlar çıkarır."
+    s2a_desc: "Electro arenanın zeminine yüksek gerilim dalgası yayar."
+    s3a_desc: "Milyonlarca volt yüklü olan Maxwell Dillon vücudundaki elektriği yoğunlaştırarak rakibini kavurur."
+    s1a_name: "Statik Deşarj"
+    s2a_name: "Şok Dalgası"
+    s3a_name: "Elektrikle İdam"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+elektra: 
+    s1a_desc: "Ninjitsu ustası Elektra yıldırım hızıyla ve müthiş bir doğrulukla giden iki ölümcül yıldız fırlatır."
+    s2a_desc: "Elektra bir darbe serisi gönderir ve sai ile katanası aracılığıyla hem zarif hem de güçlü bir saldırı kombinasyonu yapar."
+    s3a_desc: "Benzersiz ninjitsu ve suikast becerilerini kullanan Elektra hedefini yere indirmek için bir dizi güçlü ve hassas saldırı gerçekleştirir."
+    s1a_name: "Shuriken Jutsu"
+    s2a_name: "Sai Saldırısı"
+    s3a_name: "Shinobi'nin Saldırıları"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+falcon: 
+    s1a_desc: "Hızlı bir jet patlaması ile Şahin düşmanını tekmeler ve ardından çift makineli silahı ile bir yaylım ateşi açar."
+    s2a_desc: "Şahin Kızıl Kanat'ın keşfinin yardımıyla devasa bir vuruş için hedefine doğru dalışa geçer."
+    s3a_desc: "Bombardıman taarruzu çağırma. Güdümlü füze atma. Hedef indirildi."
+    s1a_name: "Zayıflatan Yaylım Ateşi"
+    s2a_name: "Yırtıcı Kuş Saldırısı"
+    s3a_name: "Tango Yerde"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+gambit: 
+    s1a_desc: "Biraz el çabukluğu ile Öfkeli Cajun gizli bir as kartı fırlatır."
+    s2a_desc: "New Orleans'in arka sokaklarından gelen süper güçlü asa saldırıları."
+    s3a_desc: "Hızlı hareketlerle Gambit kusursuz bir el fırlatır. Au Revoir."
+    s1a_name: "Hilebaz"
+    s2a_name: "Bataklık Dayağı"
+    s3a_name: "Royal Flush"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+gamora: 
+    s1a_desc: "Galaksideki en tehlikeli kadından rakibin hayati organlarına bir darbe."
+    s2a_desc: "Bu dönen kılıç saldırısı Gamora'nın yoluna çıkan her şeye iki ağır darbe indirir."
+    s3a_desc: "Gamora'nın Godslayer kılıcı rakibini akrobatik bir kombinasyon saldırısıyla parçalar."
+    s1a_name: "Öldürücü Darbe"
+    s2a_name: "Yeşil Suikastçi"
+    s3a_name: "Godslayer"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+ghost-rider: 
+    s1a_desc: "Hem kesen hem ezen hem de yakan doğaüstü silah saldırıları."
+    s2a_desc: "Yayılan ateş o kadar sıcaktır ki ruhları bile yakar."
+    s3a_desc: "Hayalet Sürücü rakibini yargılamak için Ceza Bakışı'nı kullanır. Ama önce onları Cehennem Motoru ile tanıştırır."
+    s1a_name: "İntikam"
+    s2a_name: "Cehennem Ateşi Patlaması"
+    s3a_name: "Ceza Bakışı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+groot: 
+    s1a_desc: "Uzuvlarını yerin altından uzatarak düşmanını şaşırtmasını sağlayan benzersiz bitki fizyolojisi Groot'un en önemli özelliği."
+    s2a_desc: "Groot korkulacak bir yaratık değil. Ayağını yere vurur ve şiddet yanlısı olmayan tarafını sergiler."
+    s3a_desc: "Bu nazik devin canına tak ettiğinde de yardımcı olmak için alıştığımız tüylü yüzünü takınır. İşte böyle!"
+    s1a_name: "Adım Groot"
+    s2a_name: "ADIM GROOT!"
+    s3a_name: "ADIMIZ GROOT!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+guillotine: 
+    s1a_desc: "Kendisinden öncekilerin bilgeliğinden ders alan Giyotin kesici bir darbeyle düşmanını devirir."
+    s2a_desc: "Bahşedilmiş kılıcını toprağa saplayarak Giyotin düşmanının kafasına ağır bir hamle ile indirir."
+    s3a_desc: "Öldürücü bir hamle bunun yanında merhamet kalır."
+    s1a_name: "Ataların Kudreti"
+    s2a_name: "Sersemletici Darbe"
+    s3a_name: "Öldürücü Darbe"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+hawkeye: 
+    s1a_desc: "Şahin Göz rakibini yumruk attıktan sonra elektromanyetik bir darbe indirir."
+    s2a_desc: "Şahin Göz baş aşağı konumdayken patlayıcı termal-uçlu ok atarak şov yapar."
+    s3a_desc: "Iskalamadı. Iskaladığını sanabilirsin ama ıskalamadı."
+    s1a_name: "Elektromanyetik Darbe Oku"
+    s2a_name: "Yakıcı Ok"
+    s3a_name: "Patlayıcı Yaylım Ateşi"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+hulkbuster: 
+    s1a_desc: "Roket destekli bir omuz darbesi sayesinde zırhı karşısına çıkan her şeyi darmadağın eder."
+    s2a_desc: "Bir aparkatla düşmanı sersemleterek onu güçlü İtici Işın patlamasına uygun kıvama getirir."
+    s3a_desc: "En gelişmiş Hulk Avlama teknolojisi neler yapabileceğini gösteriyor."
+    s1a_name: "Hulk-Ezici"
+    s2a_name: "Hulk-Patlatan"
+    s3a_name: "Hulk-Avcısı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+hulk: 
+    s1a_desc: "Hulk Ezer!"
+    s2a_desc: "Hulk... EZER!"
+    s3a_desc: "HULK! EZER!"
+    s1a_name: "Kafa Ezme"
+    s2a_name: "Gök Gürlemesi"
+    s3a_name: "Yerküre Kırıcı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+red-hulk: 
+    s1a_desc: "Savunmalarını del. Düzenlerini parçala."
+    s2a_desc: "Taarruzu başlat. Düşman için hiçbir şey bırakma."
+    s3a_desc: "“Sic vis pacem para bellum”"
+    s1a_name: "Şiddetli Taarruz"
+    s2a_name: "Kavrulmuş Toprak"
+    s3a_name: "Gerekli Önlemler"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+iron-fist: 
+    s1a_desc: "Yıldırım Tanrısı Lei-Kung'un öğretilerinden edinilmiş güçlü bir tekme."
+    s2a_desc: "Danny Rand bu güçlü tekniği Yedi Şehrin Ölümsüz Silahları'nda eğitim görürken öğrendi."
+    s3a_desc: "Chi'sini odaklayan Danny Rand Demir Yumruk'un tüm gücünü bir dizi yumrukla açığa çıkarır."
+    s1a_name: "İyi Şans Yıldırım Tekmesi"
+    s2a_name: "Parçalayıcı Altın Yıldız Darbesi"
+    s3a_name: "Ölümsüz Shou-Lao"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+immortal-iron-fist: 
+    s1a_desc: "Yıldırım Tanrısı Lei-Kung'un öğretilerinden edinilmiş güçlü bir tekme."
+    s2a_desc: "Danny Rand bu güçlü tekniği Yedi Şehrin Ölümsüz Silahları'nda eğitim görürken öğrendi."
+    s3a_desc: "Chi'sini odaklayan Danny Rand Demir Yumruk'un tüm gücünü bir dizi yumrukla açığa çıkarır."
+    s1a_name: "İyi Şans Yıldırım Tekmesi"
+    s2a_name: "Parçalayıcı Altın Yıldız Darbesi"
+    s3a_name: "Ölümsüz Shou-Lao"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+iron-man: 
+    s1a_desc: "Demir Adam sağlam İtici Işın ile rakiplerini uçurur."
+    s2a_desc: "Demir Adam uçarak göğsündeki Uni-Beam Projeksiyon Silahını etkinleştirir."
+    s3a_desc: "Demir Adam roket hızındaki aparkat ile rakibini havaya savurur ve havada ona farklı silahlarının tadına baktırır."
+    s1a_name: "İtici Işın"
+    s2a_name: "Uni-Beam"
+    s3a_name: "Milyar Dolarlık Yumruk"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+superior-iron-man: 
+    s1a_desc: "Demir Adam sağlam İtici Işın ile rakiplerini uçurur."
+    s2a_desc: "Demir Adam uçarak göğsündeki Uni-Beam Projeksiyon Silahını etkinleştirir."
+    s3a_desc: "Demir Adam roket hızındaki aparkat ile rakibini havaya savurur ve havada ona farklı silahlarının tadına baktırır."
+    s1a_name: "İtici Işın"
+    s2a_name: "Uni-Beam"
+    s3a_name: "Milyar Dolarlık Yumruk"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+iron-patriot: 
+    s1a_desc: "Rakibi güçlü bir vatansever ışınıyla vur."
+    s2a_desc: "Demir Vatansever rakibine özel kurnaz bir çarpışma rotası hazırlar."
+    s3a_desc: "En iyi savunma iyi bir... Hava saldırısıdır! Abarttım mı? Belki de. Peki etkili mi? Kesinlikle!"
+    s1a_name: "Özgürlük Işını"
+    s2a_name: "Güç Dönüşü"
+    s3a_name: "Hava Saldırısı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+jean-grey: 
+    s1a_desc: "JEAN_GREY bir imza saldırı onların rakibi duyurur."
+    s2a_desc: "JEAN_GREY bir imza saldırı onların rakibi duyurur."
+    s3a_desc: "JEAN_GREY bir imza saldırı onların rakibi duyurur."
+    s1a_name: "JEAN_GREY özel saldırı 1"
+    s2a_name: "JEAN_GREY özel saldırı 2"
+    s3a_name: "JEAN_GREY özel saldırı 3"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+joe-fixit: 
+    s1a_desc: "Mr. Fixit seni önce alnıyla daha sonra da iki Chicago Typewriter tüfeğiyle tanıştırır. Ne iyi adam."
+    s2a_desc: "Ayağını yere vurup ellerini şaklatarak rakibinin kafasına doğru hızla çarpan iki büyük kaya gönderir."
+    s3a_desc: "Joe Fixit iki Tomson makineli tüfeğiyle yaylım ateşine tuttuktan sonra rakibini pekmezi çıkana kadar silahlarıyla döver. Asla haneye karşı bahse girme."
+    s1a_name: "Bahsini Yap"
+    s2a_name: "Oranları Azalt"
+    s3a_name: "Hane Her Zaman Kazanır"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+juggernaut:
+    s1a_desc: "Juggernaut yeri parçalayıp rakibini uçurur."
+    s2a_desc: "Juggernaut'un güçlü kafa atışının etkisi rakibinin vücudundan geçerek zemini parçalar."
+    s3a_desc: "Juggernaut çevresinden de faydalanarak rakipleri için yıkıcı sonuçlar doğurur."
+    s1a_name: "Titreme"
+    s2a_name: "Artçı Şok"
+    s3a_name: "Cyttorak Avatarı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+kang: 
+    s1a_desc: "Kang'ın zırhlı eldivenlerinin parmak uçlarından şimşek gibi çıkan bu ok tüm düşmanları serseme çevirir."
+    s2a_desc: "Kang'ın Zaman Gemisi uzak bir noktadan elektromanyetik bir top kullanarak düşmanlarını geleceğe ışınlar."
+    s3a_desc: "Kang hedefini bulup yok etmesi için gelecekten bir dizi robotik insansız uçak konuşlandırır."
+    s1a_name: "Yıkıcı Ok"
+    s2a_name: "Elektromanyetik Darbe Topu"
+    s3a_name: "İnsansız Uçak Saldırısı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+mordo: 
+    s1a_desc: "Mordo saldıranın enerjisini kendisine karşı kullanmak üzere tasarlanmış bir enerji patlaması gerçekleştirir."
+    s2a_desc: "Mordo dövüş sanatları ve kara büyüyü birleştirerek rakibine saldırır ve anlık bir şekilde beden dışı bir deneyim yaşamasına neden olur."
+    s3a_desc: "Mordo Ayna Diyarı'na girdikten sonra tüm güçlerini kullanabilir; gerçekliği şekillendirebilir ve rakibini hazırlıksız yakalayarak tanımlanamayan boyutlar ötesi bir canavarın onu bir kabusa çekmesini sağlayabilir."
+    s1a_name: "Enerji Patlaması"
+    s2a_name: "Astral Saldırı"
+    s3a_name: "Ayna Boyutu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+karnak: 
+    s1a_desc: "Araya mesafe koy sonra da kusurları gör."
+    s2a_desc: "Odaklanma anlayış ve güç aracılığıyla Karnak dünya görüşünü sergiler."
+    s3a_desc: "Tüm insanlık bir hiçtir. Evren Karnak'ın düşmanı öldüğünde onun yokluğunu hissetmeyecek bile."
+    s1a_name: "Bozulma & Odak"
+    s2a_name: "Üç Dünya"
+    s3a_name: "Kör Zaman"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+loki: 
+    s1a_desc: "Loki asasıyla rakibine darbeler indirir ve karanlık bir enerji patlamasıyla işini bitirir."
+    s2a_desc: "Loki soyundaki Buz Devi geçmişinden faydalanarak bir buz dalgası ile rakiplerine boyun eğdirir."
+    s3a_desc: "Loki son darbeyi indirmeye hazır olana kadar rakibini kandırarak illüzyonlarına saldırmasını sağlar."
+    s1a_name: "Izdırap Laneti"
+    s2a_name: "Kriyokinezi"
+    s3a_name: "Kargaşa"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+luke-cage: 
+    s1a_desc: "Cage bizzat Demir Yumruk'un kendisinden öğrendiği bazı güçlü hareketlerle de hava atmaktan çekinmiyor."
+    s2a_desc: "Rakibine dört güçlü darbe indirir."
+    s3a_desc: "Gençliğinde Rakipler adlı bir çete tarafından eğitilen Luke Cage kolay lokma olmadığını gösterir."
+    s1a_name: "Sıkı Dayak"
+    s2a_name: "Güçlü Adam"
+    s3a_name: "Güzel Noel"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+maestro: 
+    s1a_desc: "Eldivenlerinden gelen iki İZO aşılı patlamanın hemen ardından zırhından devasa bir patlama gelir."
+    s2a_desc: "İki güçlü kadın savaşçının kullandığı iki kılıç şimdi Maestro'nun düşmanlarını doğramak için kullanılıyor."
+    s3a_desc: "Maestro kısa bir süreliğine gama ışımalı iç benliğini serbest bırakır. Rakibine vurur ve ardından İZO Eldiveninin tam gücünü açığa çıkarır."
+    s1a_name: "Üç Katı İZO Patlaması"
+    s2a_name: "Ruhkılıcı ve Tanrıkatili"
+    s3a_name: "İZO Gücünü Serbest Bırakma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+magik: 
+    s1a_desc: "Magik'in Soulsword kılıcı kendi yaşam gücünden dövülmüştür. Tek bir darbesi en güçlü büyüleri bile bozar."
+    s2a_desc: "Kendi isteğiyle görünüp gözden kaybolabilen ruhani kılıç Soulsword hedefindeki Güç akışını yarar."
+    s3a_desc: "Darkchilde'ın gücü kara veya beyaz büyüyü birleştirerek Illyana'ya gerçekliğin ötesine geçme gücünü verir."
+    s1a_name: "Ruh Saldırısı"
+    s2a_name: "Yarma"
+    s3a_name: "Teklik"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+magneto: 
+    s1a_desc: "Etraftaki keskin metal parçalar toplanıp arenaya saçılır."
+    s2a_desc: "Manyeto manyetik çekim gücünü arenanın altına kadar genişletip rakibine aşağıdan çektiği metalleri saplar."
+    s3a_desc: "Manyeto'nun hedefi metal bir kafese kapatılarak içeriye doğru patlar. Barış asla bir seçenek olmadı."
+    s1a_name: "Şarapnel"
+    s2a_name: "Kırık"
+    s3a_name: "Acımasız Füzyon"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+magneto-marvel-now: 
+    s1a_desc: "Etraftaki keskin metal parçalar toplanıp arenaya saçılır."
+    s2a_desc: "Manyeto manyetik çekim gücünü arenanın altına kadar genişletip rakibine aşağıdan çektiği dikenli metalleri saplar."
+    s3a_desc: "Manyeto'nun hedefi metal bir kafese kapatılarak içeriye doğru patlar. Barış asla bir seçenek olmadı."
+    s1a_name: "Kanlı Şarapnel"
+    s2a_name: "Kanayan Kırık"
+    s3a_name: "Acımasız Füzyon"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+modok: 
+    s1a_desc: "İmza saldırı rakibin üzerinde dışarı çıktı."
+    s2a_desc: "İmza saldırı rakibin üzerinde dışarı çıktı."
+    s3a_desc: "İmza saldırı rakibin üzerinde dışarı çıktı."
+    s1a_name: "cascasc"
+    s2a_name: "ascasc"
+    s3a_name: "ascascasc Füzyon"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+moon-knight: 
+    s1a_desc: "Marc Spector'ın iki Hilal Dartı rakibin bakış açısından daha büyük görünür."
+    s2a_desc: "Ay Tanrısı Khonshu'nun pelerinini giyen Spector asasıyla iki koldan adaleti getiriyor."
+    s3a_desc: "Ayın intikam şövalyesi yılların eğitimini yılların tekniğini ve dağlar dolusu iradeyi miras bırakıyor."
+    s1a_name: "Büyüyen Hilaller"
+    s2a_name: "İlahi Adalet"
+    s3a_name: "İntikam Şövalyesi"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+miss-marvel: 
+    s1a_desc: "Güçlü bir kozmik enerji ışını önüne çıkan her şeyi yakar."
+    s2a_desc: "Bayan Marvel galaktik bir zarafetle devasa bir tekme atar."
+    s3a_desc: "Maksimum güç seviyesine gelen Bayan Marvel ellerinden yıkıcı enerji dalgaları yayar."
+    s1a_name: "Kozmik Patlama"
+    s2a_name: "Kozmik Tekme"
+    s3a_name: "Roket Yumruğu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+kamala-khan: 
+    s1a_desc: "Yumruklarına ek olarak Bayan Marvel fena iki vuruş daha yapar."
+    s2a_desc: "Bayan Marvel kendisine uyarladığı Carol'ın Kozmik Tekmesini gösterir. Ancak bu tekmeyi elinin tersiyle rakibine vurduktan sonra yapar."
+    s3a_desc: "Sağ taraftan geliyor! Hayır soldan! Güm! Bahse girerim bunu tahmin etmiyordun."
+    s1a_name: "Morfo-Yumruk"
+    s2a_name: "Esnek Kozmik Tekme"
+    s3a_name: "Kandırma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+nightcrawler: 
+    s1a_desc: "Kesme! Bamf! Tekme!"
+    s2a_desc: "Nightcrawler'ın sirkte geçirdiği zaman boyunca neler öğrenmiş olduğunu görelim."
+    s3a_desc: "Her yönden geliyor. Lieber Gott!"
+    s1a_name: "Yer Değişimi Saldırıları"
+    s2a_name: "Unglaublich Cambazlık"
+    s3a_name: "Bamf! Bamf! Bamf!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+phoenix: 
+    s1a_desc: "Anka Kuşu Gücü güç patlaması sırasında oluşan bir telekinezi dalgası ile serbest kalır!"
+    s2a_desc: "Kozmik ateş saf Telekinezi gücüyle ölümcül bir ateş fırtınasına dönüştürülür."
+    s3a_desc: "Anka Kuşu Gücü'nün kudreti serbest bırakılır!"
+    s1a_name: "Telekinezi Patlaması"
+    s2a_name: "Kozmik Ateş Fırtınası"
+    s3a_name: "Gerçek Anka Kuşu Avatarı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+punisher: 
+    s1a_desc: "Yumruklar ve kısa namlulu tüfekler. Bir adamın başka neye ihtiyacı var ki?"
+    s2a_desc: "Frank acıya olan yüksek toleransıyla sağlam bir eski usul darbe indirir. ...Cezalandırıcı stili."
+    s3a_desc: "Cezalandırıcı neden yasaların asla çiğnenmemesi gerektiğini gösterir. Dinlemekte fayda var."
+    s1a_name: "Sokak Adaleti"
+    s2a_name: "Cezalandırma"
+    s3a_name: "Ödeşme"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+quake: 
+    s1a_desc: "Quake hızlı bir şekilde yere basınç uygulayarak rakibine doğru bir toprak dalgası fırlatır."
+    s2a_desc: "Quake kendini havaya fırlatmak için titreşimleriyle yeri hedef alır ve güçlü bir yumruk indirir."
+    s3a_desc: "Quake güçlü bir deprem yaratarak yerde bir yarık açıp rakibini kıstırır ardından da son titreşim darbesi saldırısını gerçekleştirir."
+    s1a_name: "Sıkıştırma Dalgası"
+    s2a_name: "İtici Darbe"
+    s3a_name: "Merkez Üssü"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+rhino: 
+    s1a_desc: "Rhino ayağını yere vurdu mu herkes onu dinler."
+    s2a_desc: "Birkaç ağır darbesi herkesi kıymaya çevirebilir."
+    s3a_desc: "O Rhino. Her şeyi devirir. Onun işi devirmek. Rhino'yu Rhino yapan budur."
+    s1a_name: "Ezme"
+    s2a_name: "Vurma"
+    s3a_name: "Çarpma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+rocket-racoon: 
+    s1a_desc: "Özel bölgeye üç yumruk. Bir rakundan asla şüphe etme."
+    s2a_desc: "Bam! Yüzüne bir bomba."
+    s3a_desc: "Bir gezegeni bile havaya uçurabilecek kadar ateş gücü...En azından Rakun evrenindeki gezegeni."
+    s1a_name: "Acımasız Rakun"
+    s2a_name: "El Bombası Atma"
+    s3a_name: "Büyük Patlama"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+rogue: 
+    s1a_desc: "Rogue eldivenlerini çıkararak rakibinin yaşam enerjisini emer (rakip Bloklasa bile)."
+    s2a_desc: "Rogue Bayan Marvel'dan aldığı inanılmaz fiziksel kuvvet ile rakibinin suratına üç güçlü yumruk atar."
+    s3a_desc: "Rogue rakibini havaya fırlatarak saldırısına başlar havada atılan yumruklarla devam eder ve rakibine bir öpücük fırlatarak saldırısını sonlandırır."
+    s1a_name: "Ten Teması"
+    s2a_name: "Surat Yumruklama"
+    s3a_name: "Ölümcül Öpücük"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+ronan: 
+    s1a_desc: "Ronan Evrensel Silahı'ndan çıkan Kozmik Güç ile saldırır."
+    s2a_desc: "İthamkar Ronan düşmanını suçlu ilan eder."
+    s3a_desc: "Tartışmak yok karşı çıkmak yok. Ronan Kree İmparatorluğu'nun Supreme Accuser'ı olarak yargılar... Düşmanı da cezalandırılır."
+    s1a_name: "Kozmik Güç"
+    s2a_name: "Yargı Işını"
+    s3a_name: "Kree İnfazı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+scarlet-witch: 
+    s1a_desc: "Yoğun Kaos Büyüsü küresi Scarlet Witch'in düşmanlarını havaya uçurur."
+    s2a_desc: "Scarlet Witch Kaos Büyüsüyle düşmanlarını uçurur."
+    s3a_desc: "Scarlet Witch düşmanını kelepçeleyip çaresiz bırakır ve üzerine Büyü Oku bombardımanı gönderir."
+    s1a_name: "Büyü Küresi"
+    s2a_name: "Büyü Oku"
+    s3a_name: "Kaotik Bombardıman"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+scarlet-witch-ultimate: 
+    s1a_desc: "Yoğun Kaos Büyüsü küresi Scarlet Witch'in düşmanlarını havaya uçurur."
+    s2a_desc: "Scarlet Witch Kaos Büyüsüyle düşmanlarını uçurur."
+    s3a_desc: "Scarlet Witch istediği şeyin gerçekleşmesi için matematiksel olasılık hesabı yapar. O yüzden dikkatli olmalısın çünkü matematiği GERÇEKTEN çok iyidir!"
+    s1a_name: "Büyü Küresi"
+    s2a_name: "Büyü Oku"
+    s3a_name: "Olasılık Değiştirme"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+she-hulk: 
+    s1a_desc: "Dişi Hulk rakibinin taktiklerine itiraz eder ve topukları rakiplerinin yüzlerinde iz bırakır."
+    s2a_desc: "Dişi Hulk mahkemeye saygısızlık yapan tüm sanıkları uygun bir şekilde cezalandırır."
+    s3a_desc: "Muhalif suçlu bulundu. Dava kapanmıştır."
+    s1a_name: "İtiraz!"
+    s2a_name: "Mahkemeye Hakaret"
+    s3a_name: "Mahkemeyi Boşalt"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+spider-gwen: 
+    s1a_desc: "Örümcek Gwen Örümcek Hislerini odaklayıp zarif ve akrobatik bir ters salto hareketiyle düşmanından uzaklaşır."
+    s2a_desc: "Bir ters salto tekme ve iki tam isabet ağ atışından sonra Örümcek Gwen'in ayağı rakibinin yüzüne roket hızıyla bir darbe indirir."
+    s3a_desc: "Gwen rakibini düşürür etrafta savurur ve dehşet bir hızla duvara yapıştırır. Herkes için eğlence."
+    s1a_name: "Örümcek Hisleri Karıncalanma"
+    s2a_name: "Kırbaç Ağ Tekmesi"
+    s3a_name: "Ağ Fırlatma Eğlencesi"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+spider-man: 
+    s1a_desc: "Gözlerinizde ağ varken üzerinize gelen yumrukları göremezsiniz."
+    s2a_desc: "Surata iki tekme. Saygılarıyla nazik arkadaşınız Örümcek Adam."
+    s3a_desc: "Örümcek Adam ışık hızıyla güçlü bir akrobatik saldırıya geçer."
+    s1a_name: "Ağ Atıcı"
+    s2a_name: "Sallanma"
+    s3a_name: "Çatırt Gümbürt!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+spider-man-symbiote: 
+    s1a_desc: "Sembiyot kıyafetten gelen sınırsız ağ ile yapabileceklerinin sınırı yok."
+    s2a_desc: "Surata iki tekme. Saygılarıyla nazik arkadaşınız Örümcek Adam."
+    s3a_desc: "Sembiyot kıyafet Örümcek Adama'a yapışkan ağ teslimatı yapmaktan daha farklı güçler verir."
+    s1a_name: "Ağ-Atıcı"
+    s2a_name: "Sallanma"
+    s3a_name: "Çatırt Gümbürt!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+spider-man-morales: 
+    s1a_desc: "Harika bir ağ vuruşu grubundan gerçekleştirilen üç isabetli vuruş."
+    s2a_desc: "Bir yumruk bir döner tekme ve ardından iki doz Venom Patlaması."
+    s3a_desc: "Morales bir dizi saldırı gerçekleştirerek Örümcek Adam kostümünün hakkını vermek için elinden gelenin en iyisini yapar."
+    s1a_name: "Üçlü Ağ Atışı"
+    s2a_name: "Gümbürt! Çatırt! Cızırt!"
+    s3a_name: "Darbe Serisi"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+star-lord: 
+    s1a_desc: "Yüze atılan bir tekmeyi ne daha iyi ne yapar? Roketler ve biraz sihirbazlık."
+    s2a_desc: "Star-Lord Element Silahıyla ateş eder ama öncesinde düşmanının yüzüne vurmayı ihmal etmez."
+    s3a_desc: "Bu kahramanlığından dolayı çok yakında galaksideki herkes Star-Lord adını öğrenecek."
+    s1a_name: "Roket Tekmesi"
+    s2a_name: "Element Silahı"
+    s3a_name: "Epik Patlama"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+storm: 
+    s1a_desc: "Fırtına çevredeki elektromanyetik enerjiyi tek bir darbeye yükler."
+    s2a_desc: "Sert rüzgar ve şiddetli yıldırımlar düşmanı uçurur."
+    s3a_desc: "Fırtına doğanın gazabını kullanarak rakibe acımasız bir rüzgar yağmur ve yıldırım fırtınası gönderir."
+    s1a_name: "Yıldırım Çarpması"
+    s2a_name: "Bora"
+    s3a_name: "Fırtına"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+thanos: 
+    s1a_desc: "Deli Titan'dan rakibini yumuşatacak iki hızlı ve yıkıcı kozmik patlama."
+    s2a_desc: "Öfke ve güç birleşerek Thanos'un hedefini kudretli ve sarsıcı patlamalarla havaya fırlatmasını sağlıyor."
+    s3a_desc: "Bu Thanos'u üzse de kendisi düşmanını gerçek aşkıyla tanıştırmaya hazırlanıyor."
+    s1a_name: "Boz"
+    s2a_name: "Yok Et"
+    s3a_name: "Mahvet"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+thor: 
+    s1a_desc: "Gökyüzüyle Dünya arasında bir köprü kuran Thor bir yıldırımın yönünü değiştirerek rakibine gönderir."
+    s2a_desc: "Hiç kimse mistik çekiç Mjolnir'den kaçamaz."
+    s3a_desc: "Thor bir Tanrı'nın gücünü alarak fırtınanın gücünü kullanıp Mjölnir ile saldırır."
+    s1a_name: "Yıldırım Çağrısı"
+    s2a_name: "Mjölnir'in Öfkesi"
+    s3a_name: "Odin'in Gazabı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+thor-jane-foster: 
+    s1a_desc: "Thor tüm hiddetiyle yere vurarak gökten çağırdığı yıldırım dalgasıyla rakibine saldırır."
+    s2a_desc: "Kör edici bir hız ve muazzam bir güçle Thor rakibine saldırır ve yıldırımla yüklü Mjölnir ile üzerine ezici bir darbe indirir."
+    s3a_desc: "Thor yıkıcı darbeler ve acımasız yıldırım çarpmaları ile rakibinin üzerine bir Tanrının vahşetini ve öfkesini salar."
+    s1a_name: "Mjölnir'in Öfkesi"
+    s2a_name: "Asgard'ın Hiddeti"
+    s3a_name: "Freyja'nın Gazabı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+ultron: 
+    s1a_desc: "Yoluna çıkacak kadar ahmak olan tüm rakipleri yere serecek güçte bir patlama."
+    s2a_desc: "Ultron'un bununla ne aktarmaya çalıştığını anlamak için gelişmiş algoritmalara ihtiyacın yok."
+    s3a_desc: "Ultron barışa sadece insanlığın imha edilmesi ile ulaşılabileceğine inanıyor."
+    s1a_name: "Encephalo Işını"
+    s2a_name: "Saldırı Programı 11010100"
+    s3a_name: "İmha"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+ultron-prime: 
+    s1a_desc: "Yoluna çıkacak kadar ahmak olan tüm rakipleri yere serecek güçte bir patlama."
+    s2a_desc: "Ultron'un bununla ne aktarmaya çalıştığını anlamak için gelişmiş algoritmalara ihtiyacın yok."
+    s3a_desc: "Ultron barışa sadece insanlığın imha edilmesi ile ulaşılabileceğine inanıyor."
+    s1a_name: "Encephalo Işını"
+    s2a_name: "Saldırı Programı 11010100"
+    s3a_name: "İmha"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+venompool: 
+    s1a_desc: "Venompool tokatlayıcı Sembiyot organlarını çıkarır ve üçlü tokat atar."
+    s2a_desc: "Kılıçlı süper bir döner saldırı tabii artık kılıçlar devasa boyutta. Muhteşem dans hareketleri için duraklat!"
+    s3a_desc: "Deadpool seni gerizekalı! Eddie'yi çağıracağım ona geri dönüyorum!"
+    s1a_name: "Sembiyotik Pataklama"
+    s2a_name: "Kılıçlı Dönüş: XL Versiyonu"
+    s3a_name: "Kurtar Beni!"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+venom: 
+    s1a_desc: "Venom bileşen maddenin etkisiyle kolunu kırbaca dönüştürerek rakibini üç kez kamçılar."
+    s2a_desc: "Art arda sekiz kez kamçıları ve pençeleriyle saldırarak rakibini paramparça eder."
+    s3a_desc: "Venom avıyla sapkın bir saklambaç oyuna içine girer ve vücudu kıvranarak kabus gibi bir yaratığa dönüşür."
+    s1a_name: "Bileşen Kamçı"
+    s2a_name: "Bileşen Katliam"
+    s3a_name: "Saklambaç"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+vision-old: 
+    s1a_desc: "Vision'ın alnındaki Solar Mücevher yoğun bir kızılötesi radyasyon yayar."
+    s2a_desc: "Vision yumruğunun gücünü arttırır ve tüm gücüyle vurarak rakip Güç seviyesini rakibine karşı kullanır."
+    s3a_desc: "Vision yerden yükselip sürpriz bir aparkat çıkartır ve ardından yakın mesafeden Kızılötesi Işın yayar."
+    s1a_name: "Kızılötesi Işın"
+    s2a_name: "Güç Darbesi"
+    s3a_name: "Fiziksel Parçalanma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+vision-new: 
+    s1a_desc: "Vision'ın alnında bulunan Akıl Taşı güçlü bir enerji patlaması çıkarır."
+    s2a_desc: "Vision yumruğunun gücünü arttırır ve tüm gücüyle vurarak rakip Güç seviyesini rakibine karşı kullanır."
+    s3a_desc: "Vision yerden yükselip sürpriz bir aparkat çıkartır ve ardından yakın mesafeden mikrodalga radyasyonuyla solar enerji patlaması yollar."
+    s1a_name: "Mikrodalga Radyasyonu"
+    s2a_name: "Güç Yumruğu"
+    s3a_name: "Fiziksel Parçalanma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+war-machine: 
+    s1a_desc: "Bileğine takılı mini mitralyözünü ateşleyen Savaş Makinesi 250'den fazla mermisiyle rakibini 2 saniyeden kısa sürede bombardımana tutar"
+    s2a_desc: "Savaş Makinesi güvenilir bazukasından bir Stark Industries ağır füze topu fırlatır."
+    s3a_desc: "Savaş Makinesi sahip olduğu her şeyi ateşleyerek; 050 kalibre mermiler demir kaplı saçmalar ve yüksek derecede patlayıcı top mermisi kabuklarıyla rakibini cezalandırır."
+    s1a_name: "Patlayıcı Bombardıman"
+    s2a_name: "Bazukalar"
+    s3a_name: "Ağır Mühimmat"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+winter-soldier: 
+    s1a_desc: "Bir dizi saldırının ardından Kış Askeri düşmanını arkadaşlarından biraz yardım alarak indirir."
+    s2a_desc: "Kış Askeri Kaptan Amerika'nın ortağı olduğu zamanlar öğrendiği birkaç numarayı gösterir."
+    s3a_desc: "Kış Askeri bir zamanlar Kızıl Ordu'daki en iyi suikastçiydi. Size nedenini göstersin."
+    s1a_name: "Deuceler Vahşidir"
+    s2a_name: "1945"
+    s3a_name: "Kızıl Ordu'nun Yumruğu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+wolverine: 
+    s1a_desc: "Wolverine kırılmaz Adamantiyum pençeleriyle ünlü darbesini indirir."
+    s2a_desc: "Konuşmak yok sadece diş ve pençe."
+    s3a_desc: "Hayatta kesin olan iki şey vardır ve vergiden söz etmiyoruz."
+    s1a_name: "X-Slash"
+    s2a_name: "Temel Öfke"
+    s3a_name: "Öldürme-Çılgınlığı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+old-man-logan: 
+    s1a_desc: "Wolverine kırılmaz Adamantiyum pençeleriyle ünlü darbesini indirir."
+    s2a_desc: "Konuşmak yok sadece diş ve pençe."
+    s3a_desc: "Hayatta kesin olan iki şey vardır ve vergiden söz etmiyoruz."
+    s1a_name: "X-Slash"
+    s2a_name: "Temel Öfke"
+    s3a_name: "Öldürme-Çılgınlığı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+x-23: 
+    s1a_desc: "Şaşkına döndürecek hızlı bir saldırı. Atar damarlarını açmak için bir tane daha."
+    s2a_desc: "Damarlarını aç. Boğazına saldır."
+    s3a_desc: "Tetikleyici koku etkinleştirildi. Buna son verme zamanı."
+    s1a_name: "Damar Saldırısı"
+    s2a_name: "Üçlü Kesme"
+    s3a_name: "Görevi Tamamla"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+yellow-jacket: 
+    s1a_desc: "Kıyafete ekstra güç gönderen Sarı Ceket muazzam bir biyo iğne enerjisi patlaması sağlar."
+    s2a_desc: "Sarı Ceket rakibine bir dizi ağır saldırı yapar ardından da hedeflenmiş bir biyo iğne patlaması gerçekleştirir."
+    s3a_desc: "Pym Parçacıklarının desteğiyle Sarı Ceket rakibinin etrafında mikro düzeyde küçük bir boyutla uçar ve bir dizi hedeflenmiş biyo iğne saldırısı gerçekleştirir."
+    s1a_name: "Biyo İğne Patlaması"
+    s2a_name: "Güçlü İğne"
+    s3a_name: "Biyo İğne Yaylım Ateşi"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+	
+cable: 
+    s1a_desc: "Cable, rakibini geriye doğru iterek plazma tüfeğini kullanmak için yer açar."
+    s2a_desc: "Tüfeğinden önce telekinetik bir dalga sonra da yüksek enerji şarjlı bir patlama gönderilir."
+    s3a_desc: "Cable, kendi güçleriyle plazma tüfeğini kuvvetlendirir, hedefine kilitlenir ve mahvedici bir yaylım ateşi açar."
+    s1a_name: "Kontrollü Kısa Patlamalar"
+    s2a_name: "Şarj Atışı"
+    s3a_name: "TK Tüfeği"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+
+hood: 
+    s1a_desc: "Kendisine bahşedilen gücün derinliklerine uzanan Hood, kaotik bir yıldırım arkı fırlatır."
+    s2a_desc: "Doğaüstü silahlarını çıkaran Hood, mesafesini koruyarak düşmanlarının üzerine şarjörlerini boşaltır."
+    s3a_desc: "İçindeki karanlık güce yenik düşen Parker tamamen farklı bir şeye dönüşür."
+    s1a_name: "Korkunç Kıvılcım"
+    s2a_name: "Gizli Hücum"
+    s3a_name: "Karanlık Anlaşma"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+dormammu: 
+    s1a_desc: "Karanlık Boyuttan gelen bir güç dalgası, rakibinin ruhunu tamamen tutuşturarak karşısına çıkan tüm güç kaynaklarını yakıp kül eder."
+    s2a_desc: "Dormammu Karanlık Boyuta açılan bir yarık açarak ham güçten oluşan oklar yağdırır."
+    s3a_desc: "Dormammu gerçek gücünü göstermek üzere rakibini Karanlık Boyuta getirir."
+    s1a_name: "Ruh Ateşi"
+    s2a_name: "Boyutsal Patlamalar"
+    s3a_name: "Karanlık Boyut Lordu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+archangel: 
+    s1a_desc: "Archangel, kuvvetli nörotoksinleriyle kaplı kesici uçlu metal tüylerinden birkaçını fırlatır"
+    s2a_desc: "Archangel, altı uzvunun tümünü keskin bıçak darbesi serisi için kullanır."
+    s3a_desc: "Archangel, yoğun ve çok tiz bir şekilde haykırarak rakibini sersemletir ve bir dizi yüksek hızlı saldırı için fırsat kazanır!"
+    s1a_name: "Bıçaklı Kanatlar"
+    s2a_name: "Kesici Kanatlı Saldırı"
+    s3a_name: "Hipersonik Çığlık"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+psylocke: 
+    s1a_desc: "Psylocke, Katanasıyla beraber kullandığı telekinetik kılıcını gözler önüne serer."
+    s2a_desc: "Psylocke, sahip olduğu Telepatik yetenekleri, saf psionik enerji patlaması olarak açığa çıkarır."
+    s3a_desc: "Psylocke, sahip olduğu tüm gücü tek bir psişik bıçağa yoğunlaştırır ve bu bıçağı, rakibinin beynine saplar."
+    s1a_name: "Telekinetik Kılıç"
+    s2a_name: "Psionik Patlama"
+    s3a_name: "Psionik Bıçak Saldırısı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+iceman: 
+    s1a_desc: "Ani bir buz gibi hava dalgası, rakibin sakinleşmesine yardımcı olur."
+    s2a_desc: "Rakipleri olduğu yerde bekletmeye yetecek ve başlarından aşağı buz saçakları yağmasını sağlayacak kadar uzun süren bir buz akımı."
+    s3a_desc: "Buz Adam, rakibini soğuk bir şekilde karşılamadan önce olduğu yerde buz kestirir."
+    s1a_name: "Soğukkanlı Ol"
+    s2a_name: "Tipi"
+    s3a_name: "Seninle Tanışmak Dondurucu"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+angela: 
+    s1a_desc: "Angela, Xiphos adlı kılıcını kullanarak bir dizi etkili vuruşlar yapar."
+    s2a_desc: "Angela, ileri atılarak Bıçaklarını ayrık kullanır ve sonra, darbe vurmak için onları birleştirir."
+    s3a_desc: "Angela, rakibini geriye püskürtecek biçimde Yıldız Kılıcı ile saldırır ve sonrasında, Tanrı Kanlı Bıçakları çekerek işini bitirir."
+    s1a_name: "Yıldız Kılıcı"
+    s2a_name: "Tanrı Kanlı Bıçaklar"
+    s3a_name: "Dövüş Sanatı Ustalığı"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+		
+king-groot: 
+    s1a_desc: "X Gezegeni hükümdarı, iki kuvvetli vuruşla rakibini affedilmeyenlerin Dünyasına postalar."
+    s2a_desc: "Kral Groot, toksik bir bitkisel zehir dalgası yağdırır."
+    s3a_desc: "Kral Groot, rakibini paketlemek ve ezip geçmek üzere bitkisel malzemelerini üzerlerine salar."
+    s1a_name: "Canavar Ruhlu Çiçek"
+    s2a_name: "Gizli Zehirlilik"
+    s3a_name: "Özgür Hunharlık"
+    sign_name: "Klyntar Öfkesi"
+    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+	

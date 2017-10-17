@@ -1,0 +1,33 @@
+{% comment %}
+#
+#  You can add links, alternative text, caption
+#
+include figure
+href="http://de.pinterest.com/knyberg/"
+src="images/social-media/pinterest-karen-nyberg-01.jpg"
+caption="[Karen Nyberg](http://de.pinterest.com/knyberg/) – Astronaut by day. Aspiring artist, quilter, crafter, runner by night. Wife and Mommy 24/7."
+#
+#
+{% endcomment %}
+<figure {% if include.class %}class="{{ include.class }}"{% endif %}>
+{% if include.href %}
+  <a href="{{ include.href }}"><img src=
+    {% if include.src contains "://" %}
+      "{{ include.src }}"
+    {% else %}
+      "{{ include.src | absolute_url }}"
+    {% endif %}
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}"></a>
+{% else %}
+  <img src=
+    {% if include.src contains "://" %}
+      "{{ include.src }}"
+    {% else %}
+      "{{ include.src | absolute_url }}"
+    {% endif %}
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+{% endif %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

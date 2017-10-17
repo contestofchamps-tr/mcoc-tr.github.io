@@ -1,0 +1,174 @@
+#
+# Multiple-line strings can be written either as a 'literal block' (using |),
+# or a 'folded block' (using '>').
+#
+# - name: 
+#   description: |
+#     Text
+#   screenshots:
+#   - 
+#   contra:
+#   - 
+#   pro:
+#   - 
+#   download: 
+#   demo: 
+#   anleitung: 
+
+
+- name: "Stargazer: Flexibel einsetzbar"
+  description: |
+    Justin Tadlock ist mir bereits ein Begriff seit ich vor Jahren mit seinem exzellenten [Theme Hybrid][7] herumgespielt habe und ein Jahr Mitglied in seinem *WordPress Theme Club* wurde. Auch Stargazer stammt aus seinem Editor und stellt zahlreiche Premium Themes, für die man zahlen müsste in den Schatten.
+
+    Ich habe es mir installiert und Stargazer wird definitiv in meinem kommenden WordPress 4-Buch vorgeschlagen. Wunderbar sauberer Code, hervorragende Funktionen, responsive und einfach hochprofessionell. *Chapeau!*
+
+    [6]: http://themehybrid.com/themes/stargazer
+    [7]: http://themehybrid.com/
+
+  screenshots:
+  - wordpress-theme-stargazer.jpg
+  pro:
+  - Responsive Webdesign
+  - Schöne Typografie
+  contra:
+  - Keine deutschsprachige Version
+  download: http://wordpress.org/extend/themes/stargazer
+  demo: http://locallylost.com/stargazer
+  anleitung: http://themehybrid.com/themes/stargazer
+
+
+
+
+
+
+- name: "Responsive Theme"
+  description: |
+    *Responsive* ist ein Theme, das in allen Browsern gut aussieht. Das schlicht gestaltete Theme bietet eine **große Bandbreite an Möglichkeiten** für die Gestaltung. Dazu gehören **vier Positionen für Menüs**, **elf Widget-Bereiche** sowie Optionen, um unkompliziert das Logo auszutauschen oder eigene CSS-Stylevorgaben einzugeben.
+
+    Außergewöhnlich sind die Möglichkeiten die **Startseite mit verschiedenen Seitenvorlagen** zu gestalten. Sie wollen eine Startseite mit einem Call-To-Action-Button? Kein Problem. Oder soll die Website im klassischen Blog-Look daherkommen? Oder als Magazin? Mit insgesamt **neun Seiten-Vorlagen** bringt man Schwung in Start- und Unterseiten.
+
+    Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Portofolios, Firmen-Websites oder ganz »normale« Blog-Vorhaben.
+  screenshots:
+  - "wordpress-theme-responsive-2.jpg"
+  pro:
+  - "Deutschsprachig"
+  - "Äußerst anpassungfähig mit zahlreichen Optionen"
+  - "Neun verschiedene Vorlagen für Seiten"
+  contra:
+  - "Linkfarbe lässt sich nicht in den Optionen anpassen"
+  download: http://wordpress.org/extend/themes/responsive
+  demo: http://themeid.com/demo/responsive/
+  anleitung: http://cyberchimps.com/forum/free/responsive/
+
+
+
+- name: "WordPress Theme für Fotografen"
+  description: |
+    Touchfolio ist ein WordPress Theme] für **Fotografen**. Großzügig präsentiert man mit Touchfolio seine Bilder, die Besucher auch mit Hilfe der Pfeiltasten weiterblättern können. Fotos organisiert man mit Touchfolio über das **Theme-eigene Beitragsformat** namens Gallery.
+    
+    Mittels dieser Galleriefunktion lassen sich Fotos thematisch kategorisieren und anschließend in das Navigationsmenü in der Seitenleiste einbauen. Für die Präsentation seines eigenen Fotoportfolios bietet das Theme zwei Varianten. Dazu erstellt man einfach eine Seite und wählt das gewünschte Template aus. Anschließend wählt man diese Seite als Startseite unter *Einstellungen > Lesen*.
+    
+    Aber auch auf ein **reguläres Blog-Layout** muss man nicht verzichten. Dadurch mischt man bei Bedarf einfach Bilder mit Artikel und präsentiert diese auf einer Website.
+  screenshots:
+  - "wordpress-theme-fotograf.jpg"
+  contra:
+  - "Keine deutschsprachige Version"
+  pro:
+  - "Navigation über Pfeiltasten möglich"
+  - "Zwei verschiedene Arten von Portfolioseiten"
+  - "Responsive Webdesign"
+  download: http://dimsemenov.com/themes/touchfolio/
+  demo: http://dimsemenov.com/themes/touchfolio/demo/
+  anleitung: http://dimsemenov.com/themes/touchfolio/installation.html
+
+
+
+- name: Yoko WordPress Theme
+  description: |
+    Yoko ist ein Blog-Theme, das sich sehr gut für **Blogs und Magazine** eignet. Anstelle des typischen zweispaltigen Blog-Layout kommt Yoko mit drei Spalten daher. Zwar ist die mittlere Spalte ein wenig arg schmal, bietet aber für Social Media Links samt Icons und Kategorien mit einem Ort genügend Platz.
+
+    Yoko unterscheidet sich von anderen Themes besonders durch das zweite Menu direkt unterhalb der Kopfgrafik. Über dieses Navigationselement kann man hervorragend Besucher leiten und ihnen eine hierarchische Übersicht über die angebotenen Inhalte bieten.
+
+    Wie alle Themes der deutschen beiden deutschen WordPress-Entwickler [Ellen und Manuel][1] basiert auch Yoko auf einem **Responsive Webdesign**. Aber nicht nur das Theme ist in Deutsch, sondern auch die **umfangreiche Dokumentation**, die einem hilft, dass Theme passgenau auf die eigenen Bedürfnisse zuzuschneiden.
+    
+    Auch die kostenpflichtigen Themes von Elmastudio erfreuen sich großer Beliebtheit. Das liegt einerseits an den luftigen Designs und andererseits an wirklich anwenderfreundlichen Preisen.
+
+    [1]: http://www.elmastudio.de/wer-wir-sind/
+    [2]: http://www.elmastudio.de/wordpress-themes/yoko/
+
+  screenshots:
+  - wordpress-theme-yoko.jpg
+  contra:
+  - Etwas älteres Theme
+  pro:
+  - Deutsches Theme
+  - Umfangreiche PDF-Dokumentation mit Videoanleitungen
+  - Außergewöhnliche Navigationsleiste
+
+  download: 
+  demo: http://yoko.elmastudio.de/
+  anleitung: 
+
+
+
+- name: Theme für Events
+  description: |
+    Mit [Eventbrite Multi Event WordPress Theme][1] realisieren Sie eine Event-Website. Das responsive Theme gibt es auch noch in einer Variante für einzelne Veranstaltungen. Dieses heißt dann konsequenterweise [Eventbrite Single Event][2] schimpft.
+
+    Wenn Sie ein kostenloses Theme für eine Event-Website benötigen, probieren Sie dieses hier einmal aus. Die Idee hinter dem Theme ist die Verknüpfung mit der Ticket-Plattform selbigen namens: [Eventbrite][3].
+
+    [1]: http://theme.wordpress.com/themes/eventbrite-multi/
+    [2]: http://theme.wordpress.com/themes/eventbrite-single/
+    [3]: https://www.eventbrite.com
+  screenshots:
+  - wordpress-theme-event-brite.jpg
+  contra:
+  - Nutzt nur die Eventbrite-Ticket-Plattform
+  pro:
+  - Responsive Webdesign
+  - Integrierter Event Kalender
+  - Event List-Seite
+  download: https://wordpress.org/themes/eventbrite-venue/
+  demo: https://eventbritevenuedemo.wordpress.com/
+  anleitung: https://theme.wordpress.com/themes/eventbrite-venue/
+
+
+
+- name: Revera
+  description: |
+    »Revera« basiert auf [Bootstrap][2] 3, dem CSS Framework von Twitter. Das Theme kommt mit einem großen Slider daher, der den gesamten Browser-Bildschirm einnimmt. Das Theme eignet sich für elegante Blogs als auch als Portofolio-Website.
+
+    Das einzige was mir auf den ersten Blick nicht so gut gefällt, ist das Menü auf kleinen Bildschirmen. Das verwandelt sich in ein Ausklappmenü. Nicht schlecht für die Navigation der Besucher, aber keine edel wirkendes Webdesign.
+
+    [2]: http://getbootstrap.com/
+    [3]: http://demo.fabthemes.com/revera/
+  screenshots:
+  - wordpress-theme-revera.jpg
+  contra:
+  - Für kommerzielle Zwecke ist eine Lizenz erforderlich
+  pro:
+  - Responsive Webdesign
+  - Individuelle Startseite
+  download: http://www.fabthemes.com/revera/
+  demo: http://demo.fabthemes.com/revera/
+
+
+
+
+- name: Leaf Theme
+  description: |
+    Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae](http://www.houseofreggae.de).
+  screenshots:
+  - wordpress-theme-leaf.jpg
+  download: https://wordpress.org/themes/leaf/
+  demo: https://wp-themes.com/leaf
+
+
+
+
+- name: Frank
+  description: |
+    Schnell, flexibl, schöne Typografie, responsive und angeblich *noch nicht fertig*, weil es konstant auf Github weiterentwicklel wird.
+  screenshots:
+  - wordpress-theme-frank.png
+  download: http://somerandomdude.com/work/frank/

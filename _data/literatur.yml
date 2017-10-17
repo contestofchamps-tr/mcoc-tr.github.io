@@ -1,0 +1,518 @@
+#
+#  Empfehlenswerte Literatur Datenbank
+#
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+#   language: 
+
+
+# -----------------------------------------------
+#
+- title: "Wir amüsieren uns zu Tode"
+  author: "Neil Postman"
+  publisher: Fischer
+  isbn: 9783596242856
+  date_published: 1988
+  amazon_link: http://www.amazon.de/gp/product/3596242851/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3596242851&linkCode=as2&tag=phlow-21&linkId=7KA3HWFQHBQ3AFZO
+  category:
+    - Medientheorie
+  tags:
+    - Fernsehen
+    - Massenmedien
+    - Buch
+  language: "Deutsch"
+
+
+# -----------------------------------------------
+#
+- title: "Here comes everybody"
+  author: "Clay Shirky"
+  isbn: 9780143114949
+  publisher: Penguin
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/0143114948/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0143114948&linkCode=as2&tag=phlow-21&linkId=IRDY6HUFFRXYNHMH
+  category:
+    - Medientheorie
+    - Social Media
+  tags:
+    - Social Media
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "The Cognitive Surplus"
+  author: "Clay Shirky"
+  publisher: Penguin Press HC
+  isbn: 9781594202537
+  date_published: 2010
+  amazon_link: http://www.amazon.de/gp/product/0141030623/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0141030623&linkCode=as2&tag=phlow-21&linkId=COLYE7HVDBAWE7E7
+  category:
+    - Medientheorie
+    - Social Media
+  tags:
+    - Social Media
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Das Medium ist die Botschaft"
+  author: "Marshall McLuhan"
+  publisher: Philo Fine Arts Verlag
+  isbn: 3364004005
+  date_published: 2001
+  amazon_link: http://www.amazon.de/gp/product/3364004005/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3364004005&linkCode=as2&tag=phlow-21&linkId=734HVJIJVAC3Y66Y
+  category:
+    - Medientheorie
+  tags:
+    - Medientheorie
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "We the Media"
+  author: "Dan Gillmor"
+  publisher: O’Reilly
+  isbn: 9780596102272
+  date_published: 2006
+  amazon_link:
+  download_link: http://www.oreilly.com/openbook/wemedia/book/
+  website:
+  category:
+    - Medientheorie
+    - Journalismus
+  tags:
+    - Grasswurzeljournalismus
+    - Journalismus
+    - Self-Publishing
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Free!"
+  author: "Chris Anderson"
+  publisher: Campus Verlag
+  isbn: 978-3593390888
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/3593390884/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3593390884&linkCode=as2&tag=phlow-21&linkId=LCBID6GKJQ5CD4EM
+  download_link: 
+  website: 
+  category: Medientheorie
+  tags: 
+    - Medientheorie
+    - digitale Ökonomie
+    - eCommerce
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Blogs, Video & Online-Journalismus"
+  author: "Moritz »mo.« Sauer"
+  publisher: O’Reilly Verlag
+  isbn: 978-3-89721-973-1
+  date_published: 2010
+  amazon_link: https://www.amazon.de/dp/3897219735?tag=phlow-21&amp;camp=2906&amp;creative=19474&amp;linkCode=as4&amp;creativeASIN=3897219735&amp;adid=0ZS0JSGHEPP9MJ5D28YB&amp;
+  website: http://magazin.phlow.de/buch-blogs-video-online-journalismus/
+  category: Journalismus
+  tags:
+    - WordPress
+    - Journalismus
+    - Blog
+    - Twitter
+    - Recherche
+    - Videoschnitt
+    - Screencasting
+  review_url: "/buch-blogs-video-online-journalismus/"
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Deutsch für Profis"
+  author: "Wolf Schneider"
+  publisher: Goldmann Verlag
+  isbn: 3-442-16175-4
+  date_published: 1999
+  amazon_link: http://www.amazon.de/dp/3442161754?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3442161754&amp;adid=1BXW3T42DZYT3CFRPN7Z&amp;
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  review_url: "/buch-deutsch-profis/"
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Das neue Handbuch des Journalismus"
+  author:
+    - "Wolf Schneider"
+    - "Paul-Josef Raue"
+  publisher: rororo
+  isbn: 978-3499615696
+  date_published: 1999
+  amazon_link: http://www.amazon.de/gp/product/3499628252/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3499628252&linkCode=as2&tag=phlow-21&linkId=6UCP2C4OVHRLEZXV
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Journalistisches Schreiben"
+  author: "Rene J. Cappon"
+  publisher: Autorenhaus Verlag
+  isbn: 3-93290-925-9
+  date_published: 2005
+  amazon_link: http://www.amazon.de/dp/3932909259?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3932909259&amp;adid=1H74XS0VEH8QW01Z8W5R&amp;
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  review_url: /buch-journalistisches-schreiben/
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "ABC des Zeitungs- und ZeitschriftenJournalismus"
+  author: "Volker Wolff"
+  publisher: UVK
+  isbn: 3-89669-578-9
+  date_published: 2006
+  amazon_link: http://www.amazon.de/dp/3896695789?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3896695789&amp;adid=1GZAEEK2FV5X22F517YK&amp;
+  download_link: 
+  website: 
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+    - Darstellungsformen
+  tags: 
+  review_url: "/buch-abc-des-zeitungs-und-zeitschriftenjournalismus/"
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Texten fürs Web: Planen, schreiben, multimedial erzählen"
+  author: "Stefan Heinjk"
+  publisher: "dpunkt.verlag"
+  date_published: "2011 (2., überarbeitete und erweiterte Auflage)"
+  isbn: 978–3–89864–698–7
+  amazon_link: http://www.amazon.de/gp/product/389864698X/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=389864698X
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Digital Publizieren
+    - Storytelling
+    - Journalismus
+  language: "Deutsch"
+  review_url: "/buch-texten-fuers-web/"
+
+# -----------------------------------------------
+#
+- title: "Einführung in den praktischen Journalismus"
+  author: "Walther LaRoche"
+  publisher: Econ Verlag
+  date_published: 2006
+  isbn: 3-430-17681-6
+  amazon_link: http://www.amazon.de/gp/product/3430200458/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3430200458
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Das Interview"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2001
+  isbn: 9783896693044
+  amazon_link: http://www.amazon.de/gp/product/3896693042/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693042
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+    - Interview
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Recherchieren"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2004
+  isbn: 9783896694348
+  amazon_link: http://www.amazon.de/gp/product/3896694340/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896694340
+  category: Journalismus
+  tags:
+    - Recherche
+    - Suchen
+    - Journalismus
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Die Reportage"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2006
+  isbn: 9783896693051
+  amazon_link: http://www.amazon.de/gp/product/3896693050/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693050
+  category: Journalismus
+  tags:
+    - Reportage
+    - Schreiben
+    - Journalismus
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Die 50 Werkzeuge für gutes Schreiben"
+  author: "Roy Peter Clark"
+  publisher: Autorenhaus Verlag
+  date_published: 2009
+  isbn:: 3866710313
+  amazon_link: http://www.amazon.de/gp/product/3866710313/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3866710313
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Elements of Style"
+  author:
+    - "E. B. White"
+    - "William I. Strunk"
+  publisher: Pearson Longman
+  date_published: 1999
+  isbn: 978-0205309023
+  amazon_link: http://www.amazon.de/gp/product/020530902X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=020530902X&linkCode=as2&tag=phlow-21&linkId=6EN7EQEABYYVFJPF
+  category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+  language: Englisch
+
+
+# -----------------------------------------------
+#
+- title: "Tschichold – na und?"
+  author: "Gerd Fleischmann"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1353-8
+  date_published: 2013
+  amazon_link: http://www.amazon.de/gp/product/3835313533/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835313533&linkCode=as2&tag=phlow-21&linkId=CPYZWAJCXQHPHFD5
+  website: http://www.wallstein-verlag.de/9783835313538-gerd-fleischmann-tschichold-na-und.html
+  category: Typografie
+  tags:
+    - Gedanken zum Medium Buch
+    - Tschichold
+    - Typograf
+    - Typografiegesetze
+    - Typografie
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Meisterbuch der Schrift"
+  author: "Jan Tschichold"
+  publisher: Nikol Verlag
+  isbn: 978-3868201079
+  date_published: 2011
+  amazon_link: http://www.amazon.de/gp/product/3868201076/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3868201076&linkCode=as2&tag=phlow-21&linkId=P56MV7PFJUNRRHRN
+  category: Typografie
+  tags:
+    - Typografie
+    - Typografiegesetze
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Erste Hilfe in Typografie"
+  author:
+    - "Hans Peter Willberg"
+    - "Friedrich Forssman"
+  publisher: Schmidt (Hermann) Verlag
+  isbn: 3-87439-474-3
+  date_published: 1999
+  amazon_link: http://www.amazon.de/gp/product/3874394743/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3874394743&linkCode=as2&tag=phlow-21&linkId=Q3UYXWCMEJCUAIHC
+  category: Typografie
+  tags:
+    - Typografie
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "normal regular book roman"
+  author: "Hans Andree"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1354-5
+  date_published: 2013
+  amazon_link: http://www.amazon.de/gp/product/3835313541/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835313541&linkCode=as2&tag=phlow-21&linkId=AMOLQEKA3HQPLCBF
+  download_link: 
+  website: http://www.wallstein-verlag.de/9783835313545-hans-andree-normal-regular-book-roman.html
+  category: Typografie
+  tags:
+    - Typografie
+    - Gedanken zum Medium Buch
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Das Ende einer Last – Die Befreiung von den Büchern"
+  author: "Günter Karl Bose"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1355-2
+  date_published: 2013
+  amazon_link: http://www.amazon.de/gp/product/383531355X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=383531355X&linkCode=as2&tag=phlow-21&linkId=F72BMCSDR6YRNCSS
+  download_link:
+  website: http://www.wallstein-verlag.de/9783835313552-guenter-karl-bose-das-ende-einer-last.html
+  category: Typografie
+  tags:
+    - Typografie
+    - Entwicklungsgeschichte
+    - Medium Buch
+  review_url: http://mo.phlow.de/buch-das-ende-einer-last/
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "Die perfekte Lesemaschine – Zur Ergonomie des Buches"
+  author: "Roland Reuß"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1435-1
+  date_published: 2014
+  amazon_link: http://www.amazon.de/gp/product/3835314351/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835314351&linkCode=as2&tag=phlow-21&linkId=KU3TVTDIDUKSA2CE
+  download_link: 
+  website: http://www.wallstein-verlag.de/9783835314351-roland-reuss-die-perfekte-lesemaschine.html
+  category: Typografie
+  tags:
+    - Typografie
+    - Entwicklungsgeschichte
+    - Medium Buch
+  review_url:
+  language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "The Longtail"
+  author: "Chris Anderson"
+  publisher: Deutscher Taschenbuch Verlag
+  isbn: 978-3423345316
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/3423345314/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3423345314&linkCode=as2&tag=phlow-21&linkId=JMJER45XY6TUONIU
+  download_link:
+  website:
+  category: Medientheorie
+  tags:
+    - Medientheorie
+    - digitale Ökonomie
+    - eCommerce
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "What would Google do!"
+  author: "Jeff Jarvis"
+  publisher: Harper
+  isbn: 978-0062063359
+  date_published: 2010
+  amazon_link: http://www.amazon.de/gp/product/0062063359/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0062063359&linkCode=as2&tag=phlow-21&linkId=OAP33NGTGI2PS4YV
+  download_link:
+  website: http://buzzmachine.com/wwgd/
+  category: Medientheorie
+  tags:
+    - Google
+    - Social Media
+    - Medientheorie
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Automate with Grunt: The Build Tool for JavaScript"
+  author: "Brian P. Hogan"
+  publisher: Pragmatic Bookshelf
+  isbn: 978-1-94122-211-9
+  date_published: 2014
+  amazon_link: http://www.amazon.de/gp/product/B00KQVXD20/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00KQVXD20&linkCode=as2&tag=phlow-21&linkId=LR6EZXXTBQRIQ75I
+  website: 
+  category: Webdesign
+  tags:
+    - Automatisierung
+    - Grunt
+    - Web-Entwicklung
+  review_url: http://magazin.phlow.de/webdesign/buchkritik-prozesse-grunt-automatisieren/
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "The Elements of Typographic Style"
+  author: "Robert Bringhurst"
+  publisher: "Hartley & Marks Publishers"
+  isbn: 978-0881792126
+  date_published: 2013
+  amazon_link: http://www.amazon.de/gp/product/0881792128/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0881792128&linkCode=as2&tag=phlow-21
+#  download_link: 
+#  website: 
+  category: 
+    - Typografie
+  tags: 
+    - Typografie
+    - Schrift
+  review_url:
+  language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Responsive Typography: Using Type Well on the Web"
+  author: "Jason Pamental"
+  publisher: O'Reilly Verlag
+  isbn: 978-1491907092
+  date_published: 2014
+  amazon_link: http://www.amazon.de/gp/product/B00NH1JM4E/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00NH1JM4E&linkCode=as2&tag=phlow-21&linkId=YJNWVBM7I3PEU4U5
+  website: http://rwt.io/
+  category:
+    - Webdesign
+    - Typografie
+  tags: 
+    - Typografie
+    - Webdesign
+    - Responsive Webdesign
+    - Responsive Typography
+  review_url: "http://magazin.phlow.de/webdesign/responsive-typography/"
+  language: Englisch

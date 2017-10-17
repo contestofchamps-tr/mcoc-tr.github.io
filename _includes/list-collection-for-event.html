@@ -1,0 +1,39 @@
+{% comment %}
+*   
+*   By default include.limit is a string. To convert it
+*   into a variable you have to use *assign* and the
+*   filter | plus:0
+*  
+*   Like this › assign limit = include.limit | plus:0 
+*  
+*   Use › include list-collection-by-tag.html collection0='webdesign' collection1='webdesign' tag='jekyll' limit='5' url='code'
+*  
+{% endcomment %}
+
+
+{% assign limit = include.limit | plus:0 %}
+{% assign counter = 0 %}
+
+
+<ul class="side-nav">
+  {% for item in site.[include.collection0] %}
+  {% if item.published == false %}
+  {% elsif item.tags contains include.tag and counter < limit %}
+  <li{% if item.url == page.url %} class="active"{% endif %}><span><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></span></li>
+  {% assign counter=counter | plus:1 %}
+  {% endif %}
+  {% endfor %}
+  {% for item in site.[include.collection1] %}
+  {% if item.published == false %}
+  {% elsif item.tags contains include.tag and counter < limit %}
+  <li{% if item.url == page.url %} class="active"{% endif %}><span><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></span></li>
+  {% assign counter=counter | plus:1 %}
+  {% endif %}
+  {% endfor %}
+  
+  {% if include.url %}
+  <li class="text-right"><a href="{{ site.url }}/{{ include.url | downcase }}"><strong>tüm yazılar›››</strong></a></li>
+  {% else %}
+  <li>&nbsp;</li>
+  {% endif %}
+</ul>

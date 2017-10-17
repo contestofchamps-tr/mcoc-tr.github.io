@@ -1,0 +1,39 @@
+{% comment %}
+#
+#  Mit Capture erst in einen einzigen String verwandeln
+#
+#  Benutzen › {% include literatur thema='Typografie' sprache='Deutsch' %}
+#
+{% endcomment %}
+
+{% capture rubrik %}{{ include.thema }}{% endcapture %}
+{% capture sprache %}{{ include.sprache }}{% endcapture %}
+
+<ul class="no-bullet">
+{% for book in site.data.literatur %}
+    {% if book.category contains rubrik %}
+        {% if sprache == empty %}
+        {% elsif book.language contains sprache %}
+            <li class="b30">
+                <span class="font-size-h5">
+                    {% if book.review_url contains = 'http' %}
+                        <a href="{{ book.review_url }}">»{{ book.title }}«</a>
+                    {% elsif book.review_url %}
+                        <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
+                    {% else %}»{{ book.title }}«{% endif %}
+                </span><br>
+                Autor: {{ book.author | join: ', '}}<br>
+                {% if book.publisher %}Verlag: {{ book.publisher }}{% if book.date_published %}, {{ book.date_published }}{% endif %}<br>{% endif %}
+                {% if book.isbn %}ISBN: {{ book.isbn }}<br>{% endif %}
+                {% if book.download_link %}<a href="{{ book.download_link }}">Kostenloser Download</a><br>{% endif %}
+                {% if book.website %}<a href="{{ book.website }}">Website zum Buch</a><br>{% endif %}
+                {% if book.tags %}Schlagworte: {{ book.tags | join: ', '}}<br>{% endif %}
+                {% if book.review_url %}<a href="{{ book.review_url }}">Buchbesprechung</a><br>{% endif %}
+                {% if book.amazon_link %}<a target="_blank" class="t15 button radius tiny" href="{{ book.amazon_link }}">Bei Amazon kaufen ›</a><br>{% endif %}
+            </li>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+

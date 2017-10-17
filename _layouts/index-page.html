@@ -1,0 +1,42 @@
+---
+layout: default
+format: blog-index
+# Don't index these pages dear Google.
+noindex: true
+show_meta: false
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+
+		{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+		<h1>{{ page.title }}</h1>
+
+
+		{% if page.teaser %}
+		<p class="teaser b60" itemprop="description">
+			{{ page.teaser }}
+		</p>
+		{% endif %}
+
+
+		<ul class="no-bullet">
+			{% for text in site[page.collection] %}
+			{% unless text.published == false %}
+			<li class="clearfix b60">
+				{% if text.subheadline %}<p class="subheadline">{{ text.subheadline }}</p>{% endif %}
+				<h2><a href="{{ site.url }}{{ text.url }}">{{ text.title }}</a></h2>
+				<p>{% if text.image.thumb %}<a href="{{ site.url }}{{ text.url }}"><img class="left" src="{{ site.urlimg }}{{ text.image.thumb }}" alt="" width="128" height="128"></a>{% endif %}{% if text.meta_description %}{{ text.meta_description | strip_html | escape }}{% elsif text.character %}{{ site.data.teas.[text.character].charex | strip_html | escape }}{% endif %}
+ <a href="{{ site.url }}{{ text.url }}"> devamını oku. ›</a></p>
+			</li>
+			{% endunless %}
+			{% endfor %}
+		</ul>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->

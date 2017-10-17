@@ -1,0 +1,17 @@
+---
+layout:     default
+title:      'Phlow Magazin Blog'
+teaser:     'In unserem Blog findest Du aktuelle Trends, hilfreiche Informationen und Links zu unseren Themen Webdesign, Social Media und Journalismus.'
+breadcrumb: true
+header: no
+format: blog-index
+# Don't index these pages dear Google.
+noindex: true
+---
+<div id="blog-index" class="row">
+    <div class="small-12 medium-8 medium-offset-2 columns t30 end">
+        <h1>{{ page.title }}</h1>
+        <p class="teaser b60">{% if page.teaser %}{{ page.teaser }}</p>{% endif %}
+        {% include _pagination.html %}
+    </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

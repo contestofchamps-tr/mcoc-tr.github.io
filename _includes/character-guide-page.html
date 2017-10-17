@@ -1,0 +1,40 @@
+{% comment %}
+*   
+*   By default include.limit is a string. To convert it
+*   into a variable you have to use *assign* and the
+*   filter | plus:0
+*  
+*   Like this › assign limit = include.limit | plus:0 
+*  
+*   Use › include character-guide-page.html character='abomination' salimit='4' url='code'
+*  
+{% endcomment %}
+
+
+{% assign limit = include.limit | plus:0 %}
+{% assign item = site.data.[page.character] %}
+{% assign play = site.data.[page.character].gameplay %}
+{% assign counter = 0 %}
+
+
+<ul class="side-nav">
+  {% if item %}
+  <h3>Biyografi:</h3>
+  {{ item.bio }}{% endif %}
+
+  <h3>Pasif Özellikler</h3>
+
+  {% if play.saldiri %}
+  <h4>Saldırı:</h4>
+  {{ play.saldiri }}{% endif %} 
+
+  {% if play.blok %}
+  <h4>Blok:</h4>
+  {{ play.blok }}{% endif %} 
+  
+  {% if play.agir_saldiri %}
+  <h4>Ağır Saldırı:</h4>
+  {{ play.agir_saldiri }}{% endif %}     
+ 
+ 
+</ul>

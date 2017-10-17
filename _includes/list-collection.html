@@ -1,0 +1,33 @@
+{% comment %}
+*
+*   This include lets you loop through a collection to list
+*   all entries in that collection and limit the output if needed.
+*	gghertyt5545
+*   By default include.limit is a string. To convert it
+*   into a variable you have to use *assign* and the
+*   filter | plus:0
+*
+*   If you set `published: false` in front matter of a collection page 
+*   the page gots filtered out via unless
+*
+*   Example: {% include list-collection.html collection='wordpress' limit='5' %}
+*
+{% endcomment %}
+
+
+{% assign limit = include.limit | plus:0 %}
+{% assign counter = 0 %}
+
+<ul class="side-nav">
+  {% for page in site.[include.collection] %}
+    {% unless page.published == false %}
+    	{% if counter < limit %}
+		    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+		{% assign counter=counter | plus:1 %}
+		{% elsif include.limit == Null %}
+		    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+		{% endif %}
+    {% endunless %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>
