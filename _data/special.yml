@@ -66,7 +66,7 @@ black-panther-cw:
     s2a_name: "Ataların Gücü"
     s3a_name: "Wakanda Saldırısı"
     sign_name: "Klyntar Öfkesi"
-    sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
+    sign_desc: "Dövüşün başında ve Flaşlsh Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
 
 black-widow: 
     s1a_desc: "Ajan Romanova Kara Dul Harekâtı programında ilk öğrendiği bir dizi taktik darbe indirir."
