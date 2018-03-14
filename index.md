@@ -37,5 +37,5 @@ homepage: true
       <a class="radius button info shadow-black" href="{{ site.url }}/indir-download/">indirme sayfası / download page</a>
     </div><!-- /.small-12 medium-8.columns -->
   </div><!-- /.row -->
-</div>
+</div> 
 
